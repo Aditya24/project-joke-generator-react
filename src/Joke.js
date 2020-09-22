@@ -8,8 +8,6 @@ const Joke = ({ jokes }) => {
 
       <div className='joke-container'>
         <div className='joke-item'>
-          <h2 className='joke-heading content'></h2>
-          <p className='joke-category content'></p>
           <p className='joke content'>
             {quote}
             {jokes.joke}
