@@ -17,9 +17,8 @@ body {
 .main-heading {
   display: flex;
   justify-content: center;
-  font-size: 6rem;
-  padding: 6rem;
-  margin-bottom: 6rem;
+  font-size: 2rem;
+  padding: 2rem;
   color: wheat;
 }
 .bottom-heading {
