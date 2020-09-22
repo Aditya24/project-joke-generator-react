@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/project-joke-generator-react/static/css/main.57f6a944.chunk.css",
-    "main.js": "/project-joke-generator-react/static/js/main.44b9453a.chunk.js",
-    "main.js.map": "/project-joke-generator-react/static/js/main.44b9453a.chunk.js.map",
+    "main.css": "/project-joke-generator-react/static/css/main.b2be6f45.chunk.css",
+    "main.js": "/project-joke-generator-react/static/js/main.e3460a25.chunk.js",
+    "main.js.map": "/project-joke-generator-react/static/js/main.e3460a25.chunk.js.map",
     "runtime-main.js": "/project-joke-generator-react/static/js/runtime-main.bd189e48.js",
     "runtime-main.js.map": "/project-joke-generator-react/static/js/runtime-main.bd189e48.js.map",
     "static/js/2.0c9aefb6.chunk.js": "/project-joke-generator-react/static/js/2.0c9aefb6.chunk.js",
     "static/js/2.0c9aefb6.chunk.js.map": "/project-joke-generator-react/static/js/2.0c9aefb6.chunk.js.map",
     "index.html": "/project-joke-generator-react/index.html",
-    "precache-manifest.a6febd7cf9dc5d220b499e5878b248bf.js": "/project-joke-generator-react/precache-manifest.a6febd7cf9dc5d220b499e5878b248bf.js",
+    "precache-manifest.b724b19684e962bd2a890e5c3591fc23.js": "/project-joke-generator-react/precache-manifest.b724b19684e962bd2a890e5c3591fc23.js",
     "service-worker.js": "/project-joke-generator-react/service-worker.js",
-    "static/css/main.57f6a944.chunk.css.map": "/project-joke-generator-react/static/css/main.57f6a944.chunk.css.map",
+    "static/css/main.b2be6f45.chunk.css.map": "/project-joke-generator-react/static/css/main.b2be6f45.chunk.css.map",
     "static/js/2.0c9aefb6.chunk.js.LICENSE.txt": "/project-joke-generator-react/static/js/2.0c9aefb6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bd189e48.js",
     "static/js/2.0c9aefb6.chunk.js",
-    "static/css/main.57f6a944.chunk.css",
-    "static/js/main.44b9453a.chunk.js"
+    "static/css/main.b2be6f45.chunk.css",
+    "static/js/main.e3460a25.chunk.js"
   ]
 }
