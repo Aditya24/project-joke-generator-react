@@ -11,14 +11,20 @@ body {
   -moz-osx-font-smoothing: grayscale;
 
   height: 100vh;
-  background: bisque;
+  /*background: bisque;*/
+  background: linear-gradient(to right, rgb(35, 184, 92), rgb(164, 205, 50));
 }
 .main-heading {
   display: flex;
   justify-content: center;
   font-size: 6rem;
-  padding-top: 6rem;
+  padding: 6rem;
   margin-bottom: 6rem;
+  color: wheat;
+}
+.bottom-heading {
+  text-align: center;
+  color: wheat;
 }
 .joke-container {
   font-size: 2rem;
@@ -28,10 +34,9 @@ body {
 }
 .content {
   margin-top: 2rem;
-  font-size: 2.5rem;
+  font-size: 3.5rem;
 }
 .joke-item {
-  background: coral;
   width: 50%;
   padding: 2rem;
   display: flex;
@@ -41,4 +46,20 @@ body {
 
 .joke {
   text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+  .main-heading {
+    padding-top: 6rem;
+    font-size: 3rem;
+    font-size: 1rem !important;
+    color: aqua;
+  }
+}
+@media screen and (max-width: 768px) {
+  .main-heading {
+    font-size: 2.2em;
+    margin-top: 1em;
+    background-color: blue;
+  }
 }
